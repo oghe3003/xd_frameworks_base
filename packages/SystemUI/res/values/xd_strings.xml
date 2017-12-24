@@ -82,4 +82,6 @@
     <string name="global_screenshot_selector_capture_description">Capture partial screenshot</string>
     <string name="global_screenshot_selector_cancel_description">Cancel partial screenshot</string>
 
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU Info</string>
 </resources>
