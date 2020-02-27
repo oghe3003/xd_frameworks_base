@@ -154,7 +154,6 @@ public class QSFactoryImpl implements QSFactory {
         mVolumeTileProvider = volumeTileProvider;
         mRebootTileProvider = rebootTileProvider;
         mCaffeineTileProvider = caffeineTileProvider;
-        mSmartPixelsTileProvider = smartPixelsTileProvider;
         mCPUInfoTileProvider = cpuInfoTileProvider;
         mFPSInfoTileProvider = fpsInfoTileProvider;
     }
